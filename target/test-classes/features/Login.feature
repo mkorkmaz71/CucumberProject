@@ -5,3 +5,4 @@ Feature: Verify Login Feature
     And verify user is on login page
     When user enters valid credentials
     Then verify user is on home page
+
